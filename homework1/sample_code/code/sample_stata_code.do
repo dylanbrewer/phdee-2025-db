@@ -125,5 +125,3 @@
 	coefplot, vertical yline(0) rename(_cons = "Constant") ytitle("Coefficient estimate")
 	
 	graph export samplebars_stata.pdf, replace
-	
-	
